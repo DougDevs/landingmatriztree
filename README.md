@@ -1,6 +1,4 @@
 
-# Europay  
-
 <img id="Europay" src="./assets/GIF/europay.gif" alt="europay-gif" width="500px">
 
 
@@ -18,7 +16,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/90225074?s=400&u=3514f5f6eeb1c9f5c14ad9deb479ae8e8ec8bd6f&v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/90225074?s=400&u=3514f5f6eeb1c9f5c14ad9deb479ae8e8ec8bd6f&v=4" width="100px;"/><br>
         <sub>
           <b>SC DataLink</b>
         </sub>
@@ -26,5 +24,3 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
     </td>
     
 </table>
-
-[⬆ Voltar ao topo](#Europay)<br>
