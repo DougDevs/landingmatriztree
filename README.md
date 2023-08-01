@@ -16,7 +16,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/90225074?s=400&u=3514f5f6eeb1c9f5c14ad9deb479ae8e8ec8bd6f&v=4" width="100px;"/><br>
         <sub>
           <b>SC DataLink</b>
         </sub>
